@@ -9,8 +9,8 @@ public class DbContext
 
     public DbContext()
     {
-        _connectionString = 
-            "Server=localhost; Port=5432; Database=dapper1_db; User Id=postgres; Password=Mm1311Scorpio$";
+        string _connectionString =
+         "YOUR CONNECTION STRING";
 
     }
 
